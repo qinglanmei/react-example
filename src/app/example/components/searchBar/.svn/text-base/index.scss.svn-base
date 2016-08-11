@@ -1,0 +1,7 @@
+form{
+	text-align: center;
+}
+.txtName{
+	margin-top: 10px;
+	margin-left: 10px;
+}
