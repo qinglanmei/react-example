@@ -3,7 +3,7 @@
 ##[React官网组件案例](http://reactjs.cn/react/docs/thinking-in-react.html)
 
 ##[github地址](https://github.com/ToNiQian/react-example)
-##[demo地址](http://www.520lin.com/example/example.html)
+##[demo地址](http://toniqian.com/react-example/example/)
 ***
 ###项目结构图:
 ![](http://upload-images.jianshu.io/upload_images/2701853-0b10313f36c2f735.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

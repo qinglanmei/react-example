@@ -68,7 +68,7 @@ module.exports = {
             title: 'React案例演示',
             keywords: '我的页面关键字',
             description: '我的页面描述',
-            filename: './example/example.html',
+            filename: './example/index.html',
             template: './src/app/common/common.html',
             chunks: ['example'],
             inject: true, //要把script插入到标签里
